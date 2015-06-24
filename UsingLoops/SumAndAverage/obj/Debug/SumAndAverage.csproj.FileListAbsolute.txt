@@ -1,0 +1,1 @@
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\bin\Debug\SumAndAverage.exe.config
