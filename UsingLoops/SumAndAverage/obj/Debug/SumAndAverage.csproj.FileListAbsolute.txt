@@ -1,1 +1,6 @@
 C:\Work\Claim-Academy\UsingLoops\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\obj\Debug\SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Work\Claim-Academy\UsingLoops\SumAndAverage\obj\Debug\SumAndAverage.pdb
