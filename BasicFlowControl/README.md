@@ -1,6 +1,6 @@
 ##Basic Flow Control
 
-This folder contains two basic C# web applications:
+This folder contains two basic C# console applications:
 
 **CheckPassFail:** Using an if/else statement, prints the word "PASS" to the console if the variable 'mark' is more than or equal to 50 and prints "FAIL" otherwise.
 
