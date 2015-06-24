@@ -1,0 +1,6 @@
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\bin\Debug\PrintNumberInWord.exe.config
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\bin\Debug\PrintNumberInWord.exe
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\bin\Debug\PrintNumberInWord.pdb
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\obj\Debug\PrintNumberInWord.csprojResolveAssemblyReference.cache
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\obj\Debug\PrintNumberInWord.exe
+C:\Work\Claim-Academy\BasicFlowControl\PrintNumberInWord\obj\Debug\PrintNumberInWord.pdb
