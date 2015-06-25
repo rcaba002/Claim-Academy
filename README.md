@@ -1,5 +1,5 @@
 # Claim-Academy
-A collection of applications I've worked on while attending Claim Academy
+####A collection of applications I've worked on while attending Claim Academy
 
 **Basic Flow Control:** Contains basic C# console applications
 
