@@ -1,0 +1,6 @@
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\bin\Debug\LargeNumsArray.exe.config
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\bin\Debug\LargeNumsArray.exe
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\bin\Debug\LargeNumsArray.pdb
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\obj\Debug\LargeNumsArray.csprojResolveAssemblyReference.cache
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\obj\Debug\LargeNumsArray.exe
+C:\Work\Claim-Academy\WorkingWithFiles\LargeNumsArray\obj\Debug\LargeNumsArray.pdb
