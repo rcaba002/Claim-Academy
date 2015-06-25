@@ -1,7 +1,5 @@
 ##Using Loops
 
-This folder contains two C# console applications that introduces counters, while loops, collections, and new methods.
-
 **SumAndAverage:** Contains methods that take an integer array and returns the following:
 - sum of all numbers
 - average of all numbers
