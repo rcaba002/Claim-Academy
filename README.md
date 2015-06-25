@@ -8,3 +8,5 @@ A collection of applications I've created while attending [Claim Academy](http:/
 **Using Loops:** Introduces counters, while loops, collections, and various methods
 
 **Working With Files:** Applications that read, write, and manipulate data from large .txt files
+
+**Store App:** Virtual store developed in both a text and web-based interface
