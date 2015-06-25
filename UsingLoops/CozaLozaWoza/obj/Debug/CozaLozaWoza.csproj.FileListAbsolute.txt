@@ -1,1 +1,6 @@
 C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\bin\Debug\CozaLozaWoza.exe.config
+C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\bin\Debug\CozaLozaWoza.exe
+C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\bin\Debug\CozaLozaWoza.pdb
+C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\obj\Debug\CozaLozaWoza.exe
+C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\obj\Debug\CozaLozaWoza.pdb
+C:\Work\Claim-Academy\UsingLoops\CozaLozaWoza\obj\Debug\CozaLozaWoza.csprojResolveAssemblyReference.cache
