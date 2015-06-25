@@ -1,4 +1,4 @@
-# Claim-Academy
+# My Projects
 
 ####A collection of applications I've created while attending [Claim Academy](http://claimacademystl.com/)
 
