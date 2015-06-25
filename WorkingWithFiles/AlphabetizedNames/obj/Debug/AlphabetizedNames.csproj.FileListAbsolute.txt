@@ -1,1 +1,6 @@
 C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\bin\Debug\AlphabetizedNames.exe.config
+C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\bin\Debug\AlphabetizedNames.exe
+C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\bin\Debug\AlphabetizedNames.pdb
+C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\obj\Debug\AlphabetizedNames.csprojResolveAssemblyReference.cache
+C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\obj\Debug\AlphabetizedNames.exe
+C:\Work\Claim-Academy\WorkingWithFiles\AlphabetizedNames\obj\Debug\AlphabetizedNames.pdb
