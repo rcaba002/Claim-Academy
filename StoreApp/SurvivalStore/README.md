@@ -1,3 +1,3 @@
-**Console App:**
+**Console Application:**
 
-**ASP.NET MVC App:**
+**Web Application:** Using ASP.NET MVC
